@@ -1,0 +1,54 @@
+body{
+background-color:#edf2f4 ;
+}
+h1{
+    text-align: center;
+}
+.parent{
+gap: 15px;
+display: flex;
+}
+.blog-parent{
+    background-color: white;
+    height: 335px;
+    border-radius: 5px;
+}
+.blog-parent2{
+    background-color: white;
+    height: 335px;
+    border-radius: 5px;
+}
+.blog-parent3{
+    background-color: white;
+    height: 335px;
+    border-radius: 5px;
+}
+img{
+    margin-left: 10px;
+    width: 95%;
+    height: 170px;
+    margin-bottom: 20px;
+}
+.button2{
+    width: 30px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 20px;
+}
+.more{
+    text-decoration: none;
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.parent :hover{
+    box-shadow:0 10px 5px rgba(0, 0, 0 0,3) ;
+}
+.more2{
+    text-decoration: none;
+    color: blue;
+}
